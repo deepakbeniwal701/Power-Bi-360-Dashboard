@@ -1,53 +1,75 @@
 # Power-Bi-360-Dashboard
  Business Insights 360 – Power BI Project
-Welcome to Business Insights 360, a complete Business Intelligence project created as part of the Codebasics Power BI Course. This project simulates a real-world scenario where AtliQ, a fictional company, uses data to shift from intuition-based decisions to a data-driven strategy for business growth.
+Welcome to Business Insights 360, a complete Business Intelligence project I created as part of the Codebasics Power BI Course. This project simulates a real-world scenario where the fictional company AtliQ uses data to recover from poor decisions and drive business growth through insights.
 
 🧠 Problem Statement
-AtliQ recently suffered financial setbacks during expansion into Latin America due to decisions made without data support. Meanwhile, competitors using data-driven strategies were thriving. To stay competitive, AtliQ formed a data analytics team to provide insights for better planning, decision-making, and tracking business performance.
+AtliQ faced big losses while expanding into the Latin American market due to decisions based on gut feeling and unstructured data. Meanwhile, competitors using data-driven strategies succeeded. To turn things around, AtliQ hired a data analytics team to use structured data for smarter planning, better decisions, and performance tracking.
 
-📌 Project Overview
+📌 Project Summary
 This project includes:
+
 ✅ A clean, optimized Power BI data model
-✅ Five interactive dashboards covering Finance, Sales, Marketing, Supply Chain, and Executive views
-✅ Key metrics to track financial health, sales growth, supply chain accuracy, and marketing effectiveness
+✅ 5 fully interactive dashboards
+✅ KPIs to track finance, sales, supply chain, and marketing performance
+✅ Tools used: Power BI, SQL, Excel
 
 🛠️ Tools Used
-Power BI – Data visualization and dashboard design
+Power BI – Dashboard design & data visualization
 
-SQL – Data cleaning and transformations
+SQL – Data cleaning & transformation
 
-Excel – Supporting files, data formatting, and prep
+Excel – Supporting files & data formatting
 
 🧱 Data Model
-The solution uses a star schema data model to support clear and efficient reporting across different departments.
+I built a star schema data model that connects multiple sources into a seamless analytics solution.
 
 📊 Dashboard Pages
-Home Page – Landing page for navigation
+🏠 Home Page
+An interactive landing page to navigate across dashboard views.
 
-Finance View – Profit & Loss reports by customer, product, or country
+💰 Finance View
+Get Profit & Loss statements for any customer, product, country, or combination over time.
+👉 Screenshot here:
 
-Sales View – Analyze sales trends, profitability, and growth
 
-Marketing View – Measure marketing campaign performance
+💼 Sales View
+Analyze customer performance with key metrics like Net Sales and Gross Margin.
+👉 Screenshot here:
 
-Supply Chain View – Track forecast accuracy and risk exposure
 
-Executive View – High-level summary for leadership insights
+📣 Marketing View
+Measure marketing effectiveness with metrics like Net Sales and Gross Margin in a profitability/growth matrix.
+👉 Screenshot here:
 
-🎯 Key Learnings
-✔️ Designing a star schema data model
-✔️ Creating DAX measures for real-world KPIs
-✔️ Building dashboards tailored for different business users
-✔️ Connecting multiple data sources into one BI solution
-✔️ Applying storytelling techniques in dashboard design
+
+🚚 Supply Chain View
+Monitor forecast accuracy, net error, and risk profile across products, segments, and customers.
+👉 Screenshot here:
+
+
+🧑‍💼 Executive View
+A top-level summary dashboard showing key insights across all business areas for decision-makers.
+👉 Screenshot here:
+
+
+✅ What I Learned
+Building a star schema data model
+
+Writing advanced DAX measures
+
+Creating storytelling dashboards for different users (finance, sales, marketing, executive)
+
+Connecting multiple data sources into a unified BI solution
 
 🙌 Credits
-Special thanks to Dhaval Patel, Hemanand Vadivel, and the Codebasics team for building such a practical, real-world learning experience!
-
-🔗 Useful Links
-Live Power BI Dashboard: [insert your dashboard link]
-
-LinkedIn Post: [insert your LinkedIn post link]
+A big thank you to Dhaval Patel Sir, Hemanand Vadivel Sir, and the entire Codebasics team for an amazing learning journey that bridges theory and real-world application.
 
 📬 Feedback
-Feel free to connect with me on LinkedIn or raise an issue if you have any feedback or suggestions!
+Got suggestions or feedback? Feel free to open an issue or connect with me on GitHub or LinkedIn.
+
+🔗 Useful Links
+🔗 LinkedIn Project Post
+
+📹 Video Presentation
+
+
