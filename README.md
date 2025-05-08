@@ -29,27 +29,22 @@ An interactive landing page to navigate across dashboard views.
 
 💰 Finance View
 Get Profit & Loss statements for any customer, product, country, or combination over time.
-👉 Screenshot here:
 
 
 💼 Sales View
 Analyze customer performance with key metrics like Net Sales and Gross Margin.
-👉 Screenshot here:
 
 
 📣 Marketing View
 Measure marketing effectiveness with metrics like Net Sales and Gross Margin in a profitability/growth matrix.
-👉 Screenshot here:
 
 
 🚚 Supply Chain View
 Monitor forecast accuracy, net error, and risk profile across products, segments, and customers.
-👉 Screenshot here:
 
 
 🧑‍💼 Executive View
 A top-level summary dashboard showing key insights across all business areas for decision-makers.
-👉 Screenshot here:
 
 
 ✅ What I Learned
