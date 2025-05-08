@@ -62,9 +62,5 @@ A big thank you to Dhaval Patel Sir, Hemanand Vadivel Sir, and the entire Codeba
 📬 Feedback
 Got suggestions or feedback? Feel free to open an issue or connect with me on GitHub or LinkedIn.
 
-🔗 Useful Links
-🔗 LinkedIn Project Post
-
-📹 Video Presentation
 
 
